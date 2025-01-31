@@ -8,8 +8,6 @@ I'm **Evita Dasyra**, a passionate web developer based in **Thessaloniki, Greece
 💬 Ask me about **front-end development, and UI/UX design** OR **food**.  
 📫 Reach me via email at [dasyevita@gmail.com](mailto:dasyevita@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/evitadasy).  
 
----
-
 ## 🛠 Skills  
 
 ### 🚀 Programming Languages  
@@ -27,13 +25,11 @@ I'm **Evita Dasyra**, a passionate web developer based in **Thessaloniki, Greece
 ### 🔧 Other Tools & Platforms  
 ![AEM](https://img.shields.io/badge/Adobe%20AEM-FF0000?style=flat&logo=adobe&logoColor=white)  ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
 
 ## 🏆 Certifications  
 
 - 🏅 **Adobe Certified Expert – AEM Practitioner**  
 
----
 
 ## 📊 My GitHub Stats  
 
@@ -43,7 +39,7 @@ I'm **Evita Dasyra**, a passionate web developer based in **Thessaloniki, Greece
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evitadasy)](https://github.com/evitadasy/github-readme-stats)  
 
----
+
 
 ## 🤣 Fun Fact  
 
