@@ -40,9 +40,6 @@ I'm **Evita Dasyra**, a passionate web developer based in **Thessaloniki, Greece
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evitadasy)](https://github.com/evitadasy/github-readme-stats)  
 
 
-
-## 🤣 Fun Fact  
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)  
 
 
