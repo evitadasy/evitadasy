@@ -2,7 +2,7 @@
 
 I'm **Evita Dasyra**, a passionate web developer based in **Thessaloniki, Greece**. I love building web applications and exploring new technologies.  
 
-💻 Currently working as **Jr. Full Stack Web Developer** at **DACC Deloitte, Greece**.  
+💻 Currently working as **Jr. Full Stack Web Developer**.  
 
 🌱 I’m currently learning **React & AWS Cloud Services**.  
 💬 Ask me about **front-end development, and UI/UX design** OR **food**.  
